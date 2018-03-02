@@ -1,1 +1,4 @@
-var hello = 1;
+
+function test(){
+  return true;
+}
